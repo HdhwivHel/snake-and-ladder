@@ -118,9 +118,6 @@ def moving(players):
                         i["position"] = 0
 
 
-
-
-
 def main():
     intro()
     
